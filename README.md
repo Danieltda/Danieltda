@@ -2,7 +2,7 @@ Daniël here!👋
 
 ### What am I working on? 
 
-- 🔭 I’m currently working on entering the blockchain space!
+- 🔭 I want to work in the blockchain space!
 - 🌱 I’m currently learning Solidity!
 
 --------------------------------------------------------------------------------------
